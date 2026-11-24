@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agent Self-Improvement"
+  short_description: "Mine transcripts and memories for agent failures, then improve and measure agent instructions"
+policy:
+  allow_implicit_invocation: false
